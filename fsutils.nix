@@ -8,4 +8,3 @@ mkDerivation {
   description = "File system utilities for Haskell that are missing from built in libraries";
   license = stdenv.lib.licenses.mit;
 }
-ni
